@@ -2,7 +2,7 @@
 
 Install with:
 ```
-pastebin get s0BtnzKy startup
+wget https://raw.githubusercontent.com/devomaa-CC/agnoster-CC/master/agnoster.lua startup
 reboot
 ```
 
@@ -10,7 +10,7 @@ Update with:
 
 ```
 rm startup
-pastebin get s0BtnzKy startup
+wget https://raw.githubusercontent.com/devomaa-CC/agnoster-CC/master/agnoster.lua startup
 reboot
 ```
 
